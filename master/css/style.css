@@ -1,0 +1,107 @@
+   body{
+       font-family: arial, Helvetica, sans-serif;
+       font-size: 15px;
+       line-height:1.5;
+       padding:0;
+       margin:0;
+       background-color:#f4f4f4;
+   }
+
+    /* Global */
+   .container{
+       width:80%;
+       margin:auto;
+       overflow:hidden;
+      }
+
+   ul{
+      margin:0;
+      padding:0;
+     }
+
+
+   /* header **/
+   header{
+       background:#35424a;
+       color:#ffffff;
+       paddding-top:30px;
+       min-height:70px;
+       border-bottom:#e8491d 3px solid;
+      }
+
+  header a{
+      color:#ffffff;
+      text-decoration:none;
+      text-transfrom: uppercase;
+      font-size:16px;
+     }
+
+  
+  header li{
+      float:left;
+      display:inline;
+      padding: 0 20px 0 20px;
+     }
+
+     header #Name{
+         float:left;
+        }
+
+    header #Name h1{
+        margin:0;
+        }
+
+    header nav{
+        float:right;
+        margin-top:10px;
+        }
+
+    header .highlight, header .current a{
+        color:#e8491d;
+        font-weight:bold;
+        }
+    header a:hover{
+        color:#cccccc;
+        font-weight:bold;
+        }
+
+    /* showcase */
+    #showcase{
+        min-height:600px;
+        background:url('../img/showcase.png') no-repeat;
+        background-position: center;
+        background-size:1900px 800px;
+        text-align:center;
+        color:#ffffff
+        }
+
+    #showcase h1{
+        margin-top:400px;
+        font-size:55px;
+        margin-bottom:10px;
+        color:#000000;
+       }
+
+    #showcase p{
+        font-size:20px;
+        color:#000000;
+        }
+
+
+
+
+    
+
+
+
+
+
+
+    
+ 
+
+
+
+
+
+
