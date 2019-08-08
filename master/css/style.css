@@ -19,6 +19,16 @@
       padding:0;
      }
 
+    .button_1{
+        height:38px;
+        background:#e8491d;
+        border:0;
+        padding-left:20px;
+        padding-right:20px;
+        color:#ffffff;
+    }
+ 
+
 
    /* header **/
    header{
@@ -60,6 +70,7 @@
         color:#e8491d;
         font-weight:bold;
         }
+
     header a:hover{
         color:#cccccc;
         font-weight:bold;
@@ -86,6 +97,36 @@
         font-size:20px;
         color:#000000;
         }
+
+        /* about */
+    #about{
+        padding:15px;
+        color:#ffffff;
+        background:#35424a;
+     }
+
+    #newsletter{
+        padding:15px;
+        color:#ffffff;
+        background:#35424a;
+       }
+
+    #newletter h1{
+        float:left;
+       }
+
+    #newletter form{
+        float:right;
+        margin-top:15px;
+       }
+
+    #newletter input[type="email"]{
+        padding:4px;
+        height:25px;
+        width:250px;
+    }
+       
+
 
 
 
