@@ -35,7 +35,7 @@
        background:#35424a;
        color:#ffffff;
        paddding-top:30px;
-       min-height:70px;
+       min-height:50px;
        border-bottom:#e8491d 3px solid;
       }
 
@@ -78,7 +78,7 @@
 
     /* showcase */
     #showcase{
-        min-height:600px;
+        min-height:640px;
         background:url('../img/showcase.png') no-repeat;
         background-position: center;
         background-size:1900px 800px;
@@ -104,7 +104,7 @@
         color:#ffffff;
         background:#35424a;
      }
-
+       /*NewLetter*/
     #newsletter{
         padding:15px;
         color:#ffffff;
@@ -125,6 +125,33 @@
         height:25px;
         width:250px;
     }
+
+    /* Boxes*/
+    #boxesL{
+        margin-top:20px;
+    }
+
+    #boxes .box{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding:10px;
+    }
+
+    #boxes .box img{
+        width:90px;
+    }
+
+    footer{
+        padding:20px;
+        margin-top:20px;
+        color:#ffffff;
+        background:#e8491d;
+        text-align:center;
+    }
+    
+
+
        
 
 
