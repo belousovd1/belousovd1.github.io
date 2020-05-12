@@ -136,6 +136,20 @@
         padding:10px;
         }
 
+    #boxes #CSS_box{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding:10px;
+        }
+
+    #boxes #display_box{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding:10px;
+        }   
+        
     #boxes .box img{
         width:90px;
         }
