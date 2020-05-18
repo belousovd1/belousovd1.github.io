@@ -69,13 +69,11 @@
     /* main */
     #main{
         background-image: url("/img/work_background.jpg");
-        height: 1080px;
         border-style: solid;
         }
 
     .pdf_block{
         text-align: center;
-        height: 300px;
         }
 
     #paper {
