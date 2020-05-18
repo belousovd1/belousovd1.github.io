@@ -1,4 +1,4 @@
-   body{
+body{
        font-family: arial, Helvetica, sans-serif;
        font-size: 15px;
        line-height:1.5;
@@ -123,15 +123,12 @@
         border-style: solid;
     }
     #main span{
-        background: black;
+        background-color: #000000;
         color: white;
     }
 
     .pdf_block{
         text-align: center;
-    }
-    .pdf_block span{
-
     }
 
     /* Boxes*/
@@ -169,26 +166,3 @@
         text-align:center;
     }
     
-
-
-       
-
-
-
-
-
-    
-
-
-
-
-
-
-    
- 
-
-
-
-
-
-
