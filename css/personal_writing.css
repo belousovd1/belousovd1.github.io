@@ -67,9 +67,14 @@
 
     /* main */
     #main{
-        background-image: url("/img/work_background.jpg");
+        background-image: url("/img/personal_writing_background.jpg");
         border-style: solid;
         }
+
+   /* #main span{
+        background-color:;
+        color: ;
+    }*/
 
     .pdf_block{
         text-align: center;
@@ -88,7 +93,6 @@
 
     footer{
         padding:20px;
-        margin-top:20px;
         color:#ffffff;
         background:#e8491d;
         text-align:center;

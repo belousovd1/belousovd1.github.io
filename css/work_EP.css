@@ -122,6 +122,11 @@ body{
         height: 1080px;
         border-style: solid;
     }
+    #main h1{
+        font-size: 32px;
+    }
+
+
     #main span{
         background-color: #000000;
         color: white;
@@ -160,7 +165,6 @@ body{
 
     footer{
         padding:20px;
-        margin-top:20px;
         color:#ffffff;
         background:#e8491d;
         text-align:center;

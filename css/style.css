@@ -103,6 +103,12 @@
     #quote{
         height: 0px;
     }
+    /* artist*/
+    #artist{
+        position: relative;
+        left: 575;
+        text-shadow: 2px 2px grey;
+    }
 
     /* about */
     #about{
@@ -110,29 +116,13 @@
         color:#ffffff;
         background:#35424a;
      }
+
     /*contacts */
     #contacts{
         padding:15px;
         color:#ffffff;
         background:#35424a;
      }
-    /* main */
-    #main{
-        background-image: url("/img/work_background.jpg");
-        height: 1080px;
-        border-style: solid;
-    }
-    #main span{
-        background: black;
-        color: white;
-    }
-
-    .pdf_block{
-        text-align: center;
-    }
-    .pdf_block span{
-
-    }
 
     /* Boxes*/
     #boxesL{
