@@ -136,6 +136,10 @@ body{
         text-align: center;
     }
 
+    .pdf_block iframe{
+        width: 900px;
+    }
+
     /* Boxes*/
     #boxesL{
         margin-top:20px;
