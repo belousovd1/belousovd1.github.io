@@ -69,6 +69,7 @@
     #main{
         background-image: url("/img/personal_writing_background.jpg");
         border-style: solid;
+        background-size: 1900px;
         }
 
    /* #main span{
@@ -79,7 +80,7 @@
     .pdf_block{
         text-align: center;
         }
-        
+
     .pdf_block iframe{
         width: 900px;
     }
