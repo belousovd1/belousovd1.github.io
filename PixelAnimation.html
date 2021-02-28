@@ -1,0 +1,73 @@
+<html>
+
+<body>
+    <div id="showcase">
+        <div id="sprite_default"></div>
+    </div>
+
+
+    <style>
+        #showcase{
+            height: 128px;
+            width: 1024px;
+            overflow: hidden;
+        }
+
+        #sprite_default {
+            height: 128px;
+            width: 128px;
+            animation: steps 20s steps(73) infinite, move 20s linear infinite;
+            background: url("./img/dan_full.png");
+            position: absolute;
+        }
+
+        @keyframes steps {
+            0% {
+
+                background-position: 0px;
+            }
+
+            100% {
+                background-position: -9344px;
+            }
+        }
+
+        @keyframes move {
+            0% {
+                left: 0
+            }
+
+            17% {
+                left: 40%
+            }
+
+            23% {
+                left: 40%
+            }
+
+            32% {
+                left: 20%
+            }
+
+            45% {
+                left: 20%
+                    /*finished reading*/
+            }
+
+            60% {
+                left: 60%
+            }
+
+            90% {
+                left: 60%
+            }
+
+            100% {
+                left: 100%
+            }
+        }
+    </style>
+
+</body>
+
+</html>
